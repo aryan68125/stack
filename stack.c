@@ -1,5 +1,5 @@
 /*
-this program is wrtten to make a stack using structure array
+this program is wrtten to implement a stack using structure array
 */
 
 #include <stdio.h>
